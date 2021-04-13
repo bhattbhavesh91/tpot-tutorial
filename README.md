@@ -1,7 +1,14 @@
 # Tree-based Pipeline Optimization Tool TPOT for AutoML
 
-* [Click here](https://youtu.be/olOgCv_Ej6A)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=olOgCv_Ej6A" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/olOgCv_Ej6A?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Tree-based Pipeline Optimization Tool TPOT for AutoML](http://img.youtube.com/vi/olOgCv_Ej6A/0.jpg)](http://www.youtube.com/watch?v=olOgCv_Ej6A)
 
